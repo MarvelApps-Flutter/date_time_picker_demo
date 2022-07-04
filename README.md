@@ -2,7 +2,7 @@
 
 A flutter app demonstrating to use picker for picking DATE,TIME and DATE-TIME.
 
- # Demo
+# Demo
   <table>
   <tr>
   <td><img src="https://github.com/MarvelApps-Flutter/date_time_picker_demo/blob/master/working_demo/date_and_time_picker.gif" height="480px"></td>
